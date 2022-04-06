@@ -6,12 +6,12 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Acceptance Criteria](#criteria for project)
+* [Acceptance Criteria](#acceptance-criteria)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Acknowledgements](#acknowledgements)
-* [Contact](#contact)<!-- * [License](#license) -->
+* [Contact](#contact)
 
 
 ## General Information
