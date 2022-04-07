@@ -44,11 +44,11 @@ SO THAT I can manage my time effectively
 
 
 ## Screenshots
-
+![image](https://user-images.githubusercontent.com/97489289/162104717-d92d3e68-b7e3-44bc-9e91-5ae2a561d303.png)
 
 
 ## Site Link 
-
+https://coding26fig.github.io/WorkDayScheduler/
 
 
 ## Project Status
