@@ -57,7 +57,7 @@ List the ready features here:
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
-## Setup
+## Link to deployed site 
 
 
 ## Usage
@@ -65,15 +65,11 @@ List the ready features here:
 
 
 ## Project Status
-Project is: 
+Project is: Complete
 
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
-
+- My tutor js_guy
 
 ## Contact
 This page was created by https://coding26fig.github.io/02-advanced-css-professional-portfolio/
