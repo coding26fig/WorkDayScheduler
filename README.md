@@ -1,25 +1,22 @@
 # Work Day Scheduler
-> 
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+As a developer I wanted to create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
 ## Table of Contents
-* [General Info](#general-information)
+* [User Story](#user-story)
 * [Technologies Used](#technologies-used)
 * [Acceptance Criteria](#acceptance-criteria)
 * [Screenshots](#screenshots)
-* [Setup](#setup)
-* [Usage](#usage)
+* [Site Link](#site-link)
+* [Project Status](#project-status)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
+* [License](#license)
 
 
-## General Information
-- This project was 
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+## User Story
+AS AN employee with a busy schedule
+I WANT to add important events to a daily planner
+SO THAT I can manage my time effectively
 
 
 ## Technologies Used
@@ -45,22 +42,12 @@
 - WHEN I refresh the page
 - THEN the saved events persist
 
-## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
-
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
 
 
-## Link to deployed site 
 
-
-## Usage
+## Site Link 
 
 
 
@@ -73,5 +60,8 @@ Project is: Complete
 
 ## Contact
 This page was created by https://coding26fig.github.io/02-advanced-css-professional-portfolio/
+
+## License 
+- This project is not licensed 
 
 
