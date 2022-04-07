@@ -9,11 +9,11 @@ currentDate();
 
 
 function initialize(){
-    let storageArr = JSON.parse(localStorage.getItem('userInput'))
-    let textAreas = document.querySelectorAll('.description')
-    let container = document.querySelector('.container')
+    var storageArr = JSON.parse(localStorage.getItem('userInput'))
+    var textAreas = document.querySelectorAll('.description')
+    var container = document.querySelector('.container')
 
-    for(let i = 0; i < saveButton.length; i++){
+    for(var i = 0; i < saveButton.length; i++){
 
         saveButton[i].addEventListener("click",(event) => {
             save(event)
@@ -24,11 +24,11 @@ function initialize(){
 
     }
 
-    let date = new Date()
+    var date = new Date()
 
-    let hours = date.getHours()
+    var hours = date.getHours()
 
-    for(let i = 0; i < 9; i++){
+    for(var i = 0; i < 9; i++){
         if(parseInt(container.children[i].id) < hours){
             container.children[i].classList.add('past')
         }else if(parseInt(container.children[i].id) === hours){
@@ -43,7 +43,7 @@ function initialize(){
 
     console.log(date)
 
-    // let arr = []
+    //var arr = []
     // for(let i = 0; i < 9; i++){
     //     arr.push('')
     // }
@@ -56,13 +56,13 @@ function initialize(){
 initialize()
 
 function save(event){
-    let id =  event.target.parentNode.parentNode.id
-    let container = event.target.parentNode.parentNode.parentNode
-    let textarea = event.target.parentNode.parentNode.children[1].value
+    var id =  event.target.parentNode.parentNode.id
+    var container = event.target.parentNode.parentNode.parentNode
+    var textarea = event.target.parentNode.parentNode.children[1].value
 
-    for(let i = 0; i < container.children.length; i++){
+    for(var i = 0; i < container.children.length; i++){
         if(id === container.children[i].id){
-            let storageArr = JSON.parse(localStorage.getItem('userInput'))
+            var storageArr = JSON.parse(localStorage.getItem('userInput'))
             storageArr[i] = textarea
             localStorage.setItem("userInput", JSON.stringify(storageArr))
         }
