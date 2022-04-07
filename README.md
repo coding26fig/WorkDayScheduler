@@ -1,21 +1,19 @@
 # Work Day Scheduler
-> 
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+As a developer I wanted to create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
 ## Table of Contents
-* [General Info](#general-information)
+* [User Story](#user-story)
 * [Technologies Used](#technologies-used)
 * [Acceptance Criteria](#acceptance-criteria)
 * [Screenshots](#screenshots)
-* [Setup](#setup)
+* [Site Link](#site-link)
 * [Usage](#usage)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
 
-## General Information
-- This project was 
+## User Story
+- This project was intended to 
 - What problem does it (intend to) solve?
 - What is the purpose of your project?
 - Why did you undertake it?
@@ -57,7 +55,7 @@ List the ready features here:
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
-## Link to deployed site 
+## Site Link 
 
 
 ## Usage
