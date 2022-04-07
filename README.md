@@ -7,17 +7,16 @@ As a developer I wanted to create a simple calendar application that allows a us
 * [Acceptance Criteria](#acceptance-criteria)
 * [Screenshots](#screenshots)
 * [Site Link](#site-link)
-* [Usage](#usage)
+* [Project Status](#project-status)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
+* [License](#license)
 
 
 ## User Story
-- This project was intended to 
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+AS AN employee with a busy schedule
+I WANT to add important events to a daily planner
+SO THAT I can manage my time effectively
 
 
 ## Technologies Used
@@ -43,22 +42,12 @@ As a developer I wanted to create a simple calendar application that allows a us
 - WHEN I refresh the page
 - THEN the saved events persist
 
-## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
-
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+
 
 
 ## Site Link 
-
-
-## Usage
 
 
 
@@ -71,5 +60,8 @@ Project is: Complete
 
 ## Contact
 This page was created by https://coding26fig.github.io/02-advanced-css-professional-portfolio/
+
+## License 
+- This project is not licensed 
 
 
